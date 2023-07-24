@@ -2,7 +2,8 @@
 172.31.84.120
 [dev]
 172.31.87.245
-
+[slave]
+172.31.93.37
 
 [all:vars]
 ansible_user=ec2-user
